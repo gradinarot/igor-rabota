@@ -10,8 +10,12 @@ type Location = {
 };
 
 const options = {
-  includeScore: true,
-  keys: ["code", "shopt", "address"],
+  minMatchCharLength: 2,
+  keys: [
+    { name: "code", weight: 0.7 },
+    { name: "shop", weight: 0.3 },
+    { name: "address", weight: 0.5 },
+  ],
 };
 
 const fuse = new Fuse<Location>([], options);
@@ -39,7 +43,7 @@ export default function Home() {
   function getRows(): React.ReactNode {
     return data.map((location: Location): React.ReactNode => {
       return (
-        <tr key={location.code}>
+        <tr key={location.code + location.shop}>
           <td>
             <b>{location.code}</b>
           </td>
