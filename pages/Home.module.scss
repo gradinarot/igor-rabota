@@ -17,6 +17,18 @@
     border: 1px solid;
   }
 
+  .shop {
+    max-width: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  @media (max-width: 700px) {
+    .shop {
+      max-width: 60px;
+    }
+  }
+
   td,
   th {
     text-align: center;

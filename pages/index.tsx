@@ -1,13 +1,16 @@
-import styles from "./Home.module.scss";
-import locations from "../data/locations.json";
-import { ReactElement, useEffect, useState } from "react";
 import Fuse from "fuse.js";
+import { useEffect, useState } from "react";
+import locations from "../data/locations.json";
+import styles from "./Home.module.scss";
 
 type Location = {
   code: number;
   shop: string;
-  address: string;
+  name: string;
+  address?: string;
 };
+
+const sorted = locations.sort((a: Location, b: Location) => a.code - b.code);
 
 const options = {
   minMatchCharLength: 2,
@@ -21,9 +24,7 @@ const options = {
 const fuse = new Fuse<Location>([], options);
 
 export default function Home() {
-  const [data, setData] = useState<Location[]>(() => {
-    return locations.sort((a: Location, b: Location) => a.code - b.code);
-  });
+  const [data, setData] = useState<Location[]>(sorted);
   const [filter, setFilter] = useState("");
 
   useEffect(() => {
@@ -31,12 +32,12 @@ export default function Home() {
   }, [data]);
 
   useEffect(() => {
-    const items = fuse.search(filter).map((item) => item.item);
     if (filter.length === 0) {
       setData(locations);
       return;
     }
 
+    const items = fuse.search(filter).map((item) => item.item);
     setData(items);
   }, [filter]);
 
@@ -47,12 +48,16 @@ export default function Home() {
           <td>
             <b>{location.code}</b>
           </td>
-          <td>
+          <td className={styles.shop}>
             <b>{location.shop}</b>
           </td>
           <td>
-            <a target="_blank" rel="noreferrer" href={`https://www.google.com/maps/place/${location.address}`}>
-              {location.address}
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href={`https://www.google.com/maps/place/${location.address || location.name}`}
+            >
+              {location.name}
             </a>
           </td>
         </tr>
@@ -67,8 +72,8 @@ export default function Home() {
         <thead>
           <tr>
             <th>Code</th>
-            <th>Shop</th>
-            <th>Address</th>
+            <th className={styles.shop}>Shop</th>
+            <th>Name</th>
           </tr>
         </thead>
         <tbody>{getRows()}</tbody>
