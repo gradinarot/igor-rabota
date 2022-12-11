@@ -17,7 +17,7 @@ const options = {
   keys: [
     { name: "code", weight: 0.7 },
     { name: "shop", weight: 0.3 },
-    { name: "address", weight: 0.5 },
+    { name: "name", weight: 0.5 },
   ],
 };
 
