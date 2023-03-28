@@ -113,7 +113,7 @@
   { "code": 9201, "shop": "Jet", "name": "Rheinstraße 99, 6971 Hard", "address": "" },
   { "code": 9335, "shop": "Jet", "name": "Schwefel 44a, 6850 Dornbirn", "address": "" },
   { "code": 9235, "shop": "Jet", "name": "Grindelstraße 16, 6890 Lustenau", "address": "" },
-  { "code": 9278, "shop": "Jet", "name": "Reichsstraße 133, 6800 Feldkirch", "address": "" },
+  { "code": 9278, "shop": "Jet", "name": "Reichsstraße 133 A, 6800 Feldkirch", "address": "" },
   { "code": 9281, "shop": "Jet", "name": "Wallenmahd 22, 6850 Dornbirn", "address": "" },
   { "code": 9299, "shop": "Jet", "name": "Lustenauerstraße 2, 6840 Götzis", "address": "" },
   { "code": 1460, "shop": "Adeg", "name": "Walgaustraße 33, 6712 Bludesch-Gais", "address": "" },
@@ -205,7 +205,7 @@
     "name": "KirchplaZ 17 / Silvretta Center, 6780 Schruns",
     "address": "Kirchpl. 17, 6780 Schruns"
   },
-  { "code": 8400, "shop": "Billa", "name": "Reichstraße 167, 6800 Feldkirch", "address": "" },
+  { "code": 8400, "shop": "Billa", "name": "Reichsstraße 167, 6800 Feldkirch", "address": "" },
   {
     "code": 8409,
     "shop": "Billa",
