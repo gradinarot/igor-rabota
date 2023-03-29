@@ -133,7 +133,12 @@
   { "code": 1465, "shop": "Adeg", "name": "Stuben 12, 6762 Stuben", "address": "" },
   { "code": 1466, "shop": "Adeg", "name": "Dorf 138, 6764 Lech", "address": "Dorf 138, 6764 Lech, Austria" },
   { "code": 1468, "shop": "Adeg", "name": "Dorf 4, 6781 Batholomäberg", "address": "47.092461, 9.907681" },
-  { "code": 1471, "shop": "Adeg", "name": "Reichstraße 9, 6800 Feldkirch", "add ress": "" },
+  {
+    "code": 1471,
+    "shop": "Adeg",
+    "name": "Reichstraße 9, 6800 Feldkirch",
+    "address": "47.25990929342798, 9.61773359274986"
+  },
   { "code": 1472, "shop": "Adeg", "name": "Noflerstraße 34, 6805 Feldkirch", "address": "47.256779, 9.587143" },
   { "code": 1476, "shop": "Adeg", "name": "Düns 12, 6822 Düns", "address": "47.221498, 9.718671" },
   { "code": 1478, "shop": "Adeg", "name": "Vorderlandstraße 4, 6830 Rankweil", "address": "" },
