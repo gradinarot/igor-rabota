@@ -69,7 +69,12 @@
   { "code": 5027, "shop": "OMV", "name": "Wallenmahd 1, 6850 Dornbirn", "address": "" },
   { "code": 5028, "shop": "OMV", "name": "Königshofstraße 61, 6800 Feldkirch", "address": "" },
   { "code": 5029, "shop": "OMV", "name": "Feldkircher Straße 47, 6820 Frastanz", "address": "" },
-  { "code": 5030, "shop": "OMV", "name": "Rheinstraße 24, 6971 Hard", "address": "" },
+  {
+    "code": 5030,
+    "shop": "OMV",
+    "name": "Rheinstraße 24, 6971 Hard",
+    "address": "47.487563430353106, 9.699545522092938"
+  },
   { "code": 5031, "shop": "OMV", "name": "Auleweg 1, 6751 Innerbraz", "address": "47.140611, 9.925260" },
   { "code": 5032, "shop": "OMV", "name": "Danöfen 126, 6754 Klösterle", "address": "" },
   { "code": 5033, "shop": "OMV", "name": "Hofriedenstraße 17, 6911 Lochau", "address": "" },
@@ -84,7 +89,12 @@
   { "code": 5037, "shop": "OMV", "name": "Dornbirner Straße 22, 6922 Wolfurt", "address": "" },
   { "code": 6507, "shop": "Shell", "name": "Hauptstraße 32, 6973 Höchst", "address": "" },
   { "code": 6508, "shop": "Shell", "name": "Schwefel 40, 6850 Dornbirn", "address": "" },
-  { "code": 6551, "shop": "Shell", "name": "Reichstraße 137, 6800 Feldkirch", "address": "" },
+  {
+    "code": 6551,
+    "shop": "Shell",
+    "name": "Reichsstraße 137, 6800 Feldkirch",
+    "address": "47.24680720861158, 9.60987502348739"
+  },
   { "code": 6558, "shop": "Shell", "name": "Bundesstraße 3, 6714 Nüziders", "address": "47.165231, 9.795359" },
   { "code": 6564, "shop": "Shell", "name": "Rheinstraße 88, 6900 Bregenz", "address": "" },
   { "code": 6621, "shop": "Shell", "name": "Lustenauerstraße 86, 6850 Dornbirn", "address": "" },
@@ -216,14 +226,19 @@
   { "code": 9684, "shop": "BIPA", "name": "BAHNHOFSTRASSE 10, 6845 HOHENEMS", "address": "" },
   { "code": 6901, "shop": "Billa", "name": "Hoffriedenstraße 36, 6911 Lochau", "address": "47.536536, 9.752265" },
   { "code": 8261, "shop": "Billa", "name": "St. Peter-Straße 19, 6700 Bludenz", "address": "" },
-  { "code": 8279, "shop": "Billa", "name": "Hohenemserstraße 6, 6890 Lustenau", "address": "" },
+  {
+    "code": 8279,
+    "shop": "Billa",
+    "name": "Hohenemserstraße 6, 6890 Lustenau",
+    "address": "47.41772919573374, 9.661933290333566"
+  },
   { "code": 8280, "shop": "Billa", "name": "Lustenauerstraße 2, 6845 Hohenems", "address": "" },
   { "code": 8339, "shop": "Billa", "name": "Eugen-Getzner-Straße 1 1, 6710 Nenzing", "address": "" },
   {
     "code": 8395,
     "shop": "Billa",
     "name": "KirchplaZ 17 / Silvretta Center, 6780 Schruns",
-    "address": "Kirchpl. 17, 6780 Schruns"
+    "address": "47.079659441440874, 9.918547399206213"
   },
   {
     "code": 8400,
@@ -238,7 +253,12 @@
     "address": "Wallenmahd 17, 6850 Dornbirn"
   },
   { "code": 8520, "shop": "Billa", "name": "Bahnhofstraße 34, 6890 Lustenau", "address": "" },
-  { "code": 8530, "shop": "Billa", "name": "Rheinstraße 5, 6971 Hard", "address": "" },
+  {
+    "code": 8530,
+    "shop": "Billa",
+    "name": "Rheinsstraße 5, 6971 Hard",
+    "address": "47.49033755274623, 9.70617922113187"
+  },
   { "code": 8540, "shop": "Billa", "name": "Bundesstraße 103, 6823 Lauterach", "address": "" },
   { "code": 6003, "shop": "BillaPlus", "name": "Enderstraße 8, 6844 Altach", "address": "" },
   { "code": 8516, "shop": "BillaPlus", "name": "Schwefel 71, 6850 Dornbirn", "address": "" },
