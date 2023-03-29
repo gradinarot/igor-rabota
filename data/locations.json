@@ -75,7 +75,12 @@
   { "code": 5033, "shop": "OMV", "name": "Hofriedenstraße 17, 6911 Lochau", "address": "" },
   { "code": 5034, "shop": "OMV", "name": "Grindlstraße 14, 6890 Lustenau", "address": "47.420042, 9.658894" },
   { "code": 5035, "shop": "OMV", "name": "Hagstraße 27, 6890 Lustenau", "address": "" },
-  { "code": 5036, "shop": "OMV", "name": "Bundesstraße 77, 6710 Nenzing", "address": "" },
+  {
+    "code": 5036,
+    "shop": "OMV",
+    "name": "Bundesstraße 77, 6710 Nenzing",
+    "address": "47.18905695613363, 9.701788590142485"
+  },
   { "code": 5037, "shop": "OMV", "name": "Dornbirner Straße 22, 6922 Wolfurt", "address": "" },
   { "code": 6507, "shop": "Shell", "name": "Hauptstraße 32, 6973 Höchst", "address": "" },
   { "code": 6508, "shop": "Shell", "name": "Schwefel 40, 6850 Dornbirn", "address": "" },
@@ -113,7 +118,12 @@
   { "code": 9201, "shop": "Jet", "name": "Rheinstraße 99, 6971 Hard", "address": "" },
   { "code": 9335, "shop": "Jet", "name": "Schwefel 44a, 6850 Dornbirn", "address": "" },
   { "code": 9235, "shop": "Jet", "name": "Grindelstraße 16, 6890 Lustenau", "address": "" },
-  { "code": 9278, "shop": "Jet", "name": "Reichsstraße 133 A, 6800 Feldkirch", "address": "" },
+  {
+    "code": 9278,
+    "shop": "Jet",
+    "name": "Reichsstraße 133 A, 6800 Feldkirch",
+    "address": "47.247395481430466, 9.610423375125933"
+  },
   { "code": 9281, "shop": "Jet", "name": "Wallenmahd 22, 6850 Dornbirn", "address": "" },
   { "code": 9299, "shop": "Jet", "name": "Lustenauerstraße 2, 6840 Götzis", "address": "" },
   { "code": 1460, "shop": "Adeg", "name": "Walgaustraße 33, 6712 Bludesch-Gais", "address": "" },
@@ -205,7 +215,12 @@
     "name": "KirchplaZ 17 / Silvretta Center, 6780 Schruns",
     "address": "Kirchpl. 17, 6780 Schruns"
   },
-  { "code": 8400, "shop": "Billa", "name": "Reichsstraße 167, 6800 Feldkirch", "address": "" },
+  {
+    "code": 8400,
+    "shop": "Billa",
+    "name": "Reichsstraße 167, 6800 Feldkirch",
+    "address": "47.24247298908981, 9.60392087624722"
+  },
   {
     "code": 8409,
     "shop": "Billa",
