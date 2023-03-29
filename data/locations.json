@@ -173,7 +173,12 @@
   { "code": 2110, "shop": "Adeg", "name": "Dr.-Alfons-Heinzle-Str. 45, 6840 Götzis", "address": "" },
   { "code": 2118, "shop": "Adeg", "name": "Heimen 68, 6960 Buch", "address": "" },
   { "code": 2125, "shop": "Adeg", "name": "Neue Landstraße 23, 6841 Mäder", "address": "" },
-  { "code": 2159, "shop": "Adeg", "name": "Runastraße 8, 6805 Feldkirch-Gisingen", "address": "" },
+  {
+    "code": 2159,
+    "shop": "Adeg",
+    "name": "Runastraße 8, 6805 Feldkirch-Gisingen",
+    "address": "47.26036001362497, 9.599342174467775"
+  },
   { "code": 2161, "shop": "Adeg", "name": "Dorf 4, 6934 Sulzberg", "address": "" },
   { "code": 2162, "shop": "Adeg", "name": "Hagen 27, 6934 Thal", "address": "" },
   { "code": 2185, "shop": "Adeg", "name": "Nibelungenstraße 19, 6845 Hohenems", "address": "" },
