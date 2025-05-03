@@ -189,10 +189,10 @@
     "address": "47.241032, 9.590791"
   },
   { "code": 7127, "shop": "BP", "name": "Lustenauer Straße 122a, 6845 Hohenems", "address": "" },
-  { "code": 7144, "shop": "BP", "name": "Im Buch 43, 6840 Götzis", "address": "" },
+  { "code": 7231, "shop": "BP", "name": "Im Buch 43, 6840 Götzis", "address": "" },
   { "code": 7225, "shop": "BP", "name": "Harder Straße 84, 6972 Fussach", "address": "" },
   { "code": 7158, "shop": "BP", "name": "Stiegstraße 63, 6830 Rankweil", "address": "" },
-  { "code": 7178, "shop": "BP", "name": "Bregenzer Straße 63, 6900 Lochau", "address": "" },
+  { "code": 7228, "shop": "BP", "name": "Bregenzer Straße 63, 6900 Lochau", "address": "" },
   { "code": 7204, "shop": "BP", "name": "Lustenauerstraße 92, 6850 Dornbirn", "address": "" },
   {
     "code": 7186,
@@ -225,7 +225,7 @@
     "address": "47.247395481430466, 9.610423375125933"
   },
   { "code": 9281, "shop": "Jet", "name": "Wallenmahd 22, 6850 Dornbirn", "address": "" },
-  { "code": 9299, "shop": "Jet", "name": "Lustenauerstraße 2, 6840 Götzis", "address": "" },
+  { "code": 9352, "shop": "Jet", "name": "Lustenauerstraße 2, 6840 Götzis", "address": "" },
   { "code": 1460, "shop": "Adeg", "name": "Walgaustraße 33, 6712 Bludesch-Gais", "address": "" },
   {
     "code": 1462,
@@ -385,7 +385,7 @@
     "name": "Hoffriedenstraße 36, 6911 Lochau",
     "address": "47.536536, 9.752265"
   },
-  { "code": 8261, "shop": "Billa", "name": "St. Peter-Straße 19, 6700 Bludenz", "address": "" },
+  { "code": 2268, "shop": "Adeg", "name": "St. Peter-Straße 19, 6700 Bludenz", "address": "" },
   {
     "code": 8279,
     "shop": "Billa",
@@ -395,25 +395,25 @@
   { "code": 8280, "shop": "Billa", "name": "Lustenauerstraße 2, 6845 Hohenems", "address": "" },
   {
     "code": 2256,
-    "shop": "Billa",
+    "shop": "Adeg",
     "name": "Eugen-Getzner-Straße 1 1, 6710 Nenzing",
     "address": ""
   },
   {
-    "code": 8395,
-    "shop": "Billa",
+    "code": 390,
+    "shop": "sutterluty",
     "name": "KirchplaZ 17 / Silvretta Center, 6780 Schruns",
     "address": "47.079659441440874, 9.918547399206213"
   },
   {
     "code": 2255,
-    "shop": "Billa",
+    "shop": "Adeg",
     "name": "Reichsstraße 167, 6800 Feldkirch",
     "address": "47.24247298908981, 9.60392087624722"
   },
   {
-    "code": 8409,
-    "shop": "Billa",
+    "code": 400,
+    "shop": "sutterluty",
     "name": "Wallenmad 17/Altenstadt, 6850 Dornbirn",
     "address": "Wallenmahd 17, 6850 Dornbirn"
   },
@@ -424,12 +424,12 @@
     "name": "Rheinsstraße 5, 6971 Hard",
     "address": "47.49033755274623, 9.70617922113187"
   },
-  { "code": 8540, "shop": "Billa", "name": "Bundesstraße 103, 6823 Lauterach", "address": "" },
-  { "code": 6003, "shop": "BillaPlus", "name": "Enderstraße 8, 6844 Altach", "address": "" },
-  { "code": 8516, "shop": "BillaPlus", "name": "Schwefel 71, 6850 Dornbirn", "address": "" },
+  { "code": 2258, "shop": "Adeg", "name": "Bundesstraße 103, 6823 Lauterach", "address": "" },
+  { "code": 410, "shop": "sutterluty", "name": "Enderstraße 8, 6844 Altach", "address": "" },
+  { "code": 400, "shop": "sutterluty", "name": "Schwefel 71, 6850 Dornbirn", "address": "" },
   {
-    "code": 2268,
-    "shop": "BillaPlus",
+    "code": 420,
+    "shop": "sutterluty",
     "name": "Bundesstraße 22, 6830 Rankweil",
     "address": "47.273434, 9.616622"
   },
