@@ -23,17 +23,47 @@
     "name": "Platz 199, 6952 Hittisau",
     "address": "Platz 199, 6952 Hittisau, Austria"
   },
-  { "code": 50, "shop": "Sutterluty", "name": "Pfister 1235, 6863 Egg ", "address": "47.428890, 9.896633" },
+  {
+    "code": 50,
+    "shop": "Sutterluty",
+    "name": "Pfister 1235, 6863 Egg ",
+    "address": "47.428890, 9.896633"
+  },
   { "code": 80, "shop": "Sutterluty", "name": "Walgaustraße 137, 6713 Ludesch", "address": "" },
   { "code": 120, "shop": "Sutterluty", "name": "Hofriedenstraße 32, 6911 Lochau", "address": "" },
-  { "code": 130, "shop": "Sutterluty", "name": "Werdenberger Straße 3, 6700 Bludenz", "address": "" },
-  { "code": 140, "shop": "Sutterluty", "name": "Batloggstraße 97, 6780 Schruns", "address": "47.078357, 9.905676" },
+  {
+    "code": 130,
+    "shop": "Sutterluty",
+    "name": "Werdenberger Straße 3, 6700 Bludenz",
+    "address": ""
+  },
+  {
+    "code": 140,
+    "shop": "Sutterluty",
+    "name": "Batloggstraße 97, 6780 Schruns",
+    "address": "47.078357, 9.905676"
+  },
   { "code": 150, "shop": "Sutterluty", "name": "Dammstraße 7, 6923 Lauterach", "address": "" },
-  { "code": 160, "shop": "Sutterluty", "name": "Landammanngasse 12, 6830 Rankweil", "address": "47.273982, 9.638854" },
-  { "code": 180, "shop": "Sutterluty", "name": "Reichsstraße 1, 6900 Bregenz", "address": "47.506588, 9.750190" },
+  {
+    "code": 160,
+    "shop": "Sutterluty",
+    "name": "Landammanngasse 12, 6830 Rankweil",
+    "address": "47.273982, 9.638854"
+  },
+  {
+    "code": 180,
+    "shop": "Sutterluty",
+    "name": "Reichsstraße 1, 6900 Bregenz",
+    "address": "47.506588, 9.750190"
+  },
   { "code": 200, "shop": "Sutterluty", "name": "Walgaustraße 7, 6833 Weiler", "address": "" },
   { "code": 210, "shop": "Sutterluty", "name": "Rohrbach 22, 6850 Dornbirn", "address": "" },
-  { "code": 220, "shop": "Sutterluty", "name": "Bahnhof. 741, 6870 Bezau", "address": "47.382068, 9.897259" },
+  {
+    "code": 220,
+    "shop": "Sutterluty",
+    "name": "Bahnhof. 741, 6870 Bezau",
+    "address": "47.382068, 9.897259"
+  },
   { "code": 230, "shop": "Sutterluty", "name": "Rheinstraße 99b, 6971 Hard", "address": "" },
   {
     "code": 240,
@@ -41,12 +71,22 @@
     "name": "Mozartstraßel 1, 6850 Dornbirn",
     "address": "47.413088737627724, 9.739849940140264"
   },
-  { "code": 250, "shop": "Sutterluty", "name": "Gutenbergstraße 4, 6858 Schwarzach", "address": "" },
+  {
+    "code": 250,
+    "shop": "Sutterluty",
+    "name": "Gutenbergstraße 4, 6858 Schwarzach",
+    "address": ""
+  },
   { "code": 260, "shop": "Sutterluty", "name": "Poststraße 2a, 6850 Dornbirn", "address": "" },
   { "code": 270, "shop": "Sutterluty", "name": "Bahnhofstraße 44, 6800 Feldkirch", "address": "" },
   { "code": 290, "shop": "Sutterluty", "name": "Kehlerpark, 6850 Dornbirn", "address": "" },
   { "code": 300, "shop": "Sutterluty", "name": "Stiegstraße 44, 6830 Rankweil", "address": "" },
-  { "code": 310, "shop": "Sutterluty", "name": "Karl-Hoell-Straße 12, 6923 Lauterach", "address": "" },
+  {
+    "code": 310,
+    "shop": "Sutterluty",
+    "name": "Karl-Hoell-Straße 12, 6923 Lauterach",
+    "address": ""
+  },
   { "code": 320, "shop": "Sutterluty", "name": "Bahnhofstraße 40, 6800 Feldkirch", "address": "" },
   {
     "code": 330,
@@ -61,8 +101,18 @@
     "name": "Diepoldsauerstraße 55, 6845 Hohenems",
     "address": "47.37433512213228, 9.67594240022507"
   },
-  { "code": 700, "shop": "Sutterluty", "name": "Feldkircherstraße 21, 6820 Frastanz", "address": "" },
-  { "code": 710, "shop": "Sutterluty", "name": "Dr. Alfons Heinzlestraße 41, 6840 Götzis", "address": "" },
+  {
+    "code": 700,
+    "shop": "Sutterluty",
+    "name": "Feldkircherstraße 21, 6820 Frastanz",
+    "address": ""
+  },
+  {
+    "code": 710,
+    "shop": "Sutterluty",
+    "name": "Dr. Alfons Heinzlestraße 41, 6840 Götzis",
+    "address": ""
+  },
   { "code": 5024, "shop": "OMV", "name": "Hof 978, 6861 Alberschwende", "address": "" },
   { "code": 5025, "shop": "OMV", "name": "Arlbergstraße 135, 6900 Bregenz", "address": "" },
   { "code": 5026, "shop": "OMV", "name": "Schwefel 53, 6850 Dornbirn", "address": "" },
@@ -75,10 +125,20 @@
     "name": "Rheinstraße 24, 6971 Hard",
     "address": "47.487563430353106, 9.699545522092938"
   },
-  { "code": 5031, "shop": "OMV", "name": "Auleweg 1, 6751 Innerbraz", "address": "47.140611, 9.925260" },
+  {
+    "code": 5031,
+    "shop": "OMV",
+    "name": "Auleweg 1, 6751 Innerbraz",
+    "address": "47.140611, 9.925260"
+  },
   { "code": 5032, "shop": "OMV", "name": "Danöfen 126, 6754 Klösterle", "address": "" },
   { "code": 5033, "shop": "OMV", "name": "Hofriedenstraße 17, 6911 Lochau", "address": "" },
-  { "code": 5034, "shop": "OMV", "name": "Grindlstraße 14, 6890 Lustenau", "address": "47.420042, 9.658894" },
+  {
+    "code": 5034,
+    "shop": "OMV",
+    "name": "Grindlstraße 14, 6890 Lustenau",
+    "address": "47.420042, 9.658894"
+  },
   { "code": 5035, "shop": "OMV", "name": "Hagstraße 27, 6890 Lustenau", "address": "" },
   {
     "code": 5036,
@@ -95,10 +155,20 @@
     "name": "Reichsstraße 137, 6800 Feldkirch",
     "address": "47.24680720861158, 9.60987502348739"
   },
-  { "code": 6558, "shop": "Shell", "name": "Bundesstraße 3, 6714 Nüziders", "address": "47.165231, 9.795359" },
+  {
+    "code": 6558,
+    "shop": "Shell",
+    "name": "Bundesstraße 3, 6714 Nüziders",
+    "address": "47.165231, 9.795359"
+  },
   { "code": 6564, "shop": "Shell", "name": "Rheinstraße 88, 6900 Bregenz", "address": "" },
   { "code": 6621, "shop": "Shell", "name": "Lustenauerstraße 86, 6850 Dornbirn", "address": "" },
-  { "code": 6622, "shop": "Shell", "name": "Liechtensteinerstraße 66, 6807 Tisis", "address": "47.230636, 9.586407" },
+  {
+    "code": 6622,
+    "shop": "Shell",
+    "name": "Liechtensteinerstraße 66, 6807 Tisis",
+    "address": "47.230636, 9.586407"
+  },
   {
     "code": 6623,
     "shop": "Shell",
@@ -106,7 +176,12 @@
     "address": "47.36581421236797, 9.657570754073031"
   },
   { "code": 6624, "shop": "Shell", "name": "Rätikonstraße 42, 6780 Schruns", "address": "" },
-  { "code": 7058, "shop": "BP", "name": "Bundesstraße, 6863 Egg", "address": "47.43253903609631, 9.895293631046721" },
+  {
+    "code": 7058,
+    "shop": "BP",
+    "name": "Bundesstraße, 6863 Egg",
+    "address": "47.43253903609631, 9.895293631046721"
+  },
   {
     "code": 7120,
     "shop": "BP",
@@ -119,11 +194,26 @@
   { "code": 7158, "shop": "BP", "name": "Stiegstraße 63, 6830 Rankweil", "address": "" },
   { "code": 7178, "shop": "BP", "name": "Bregenzer Straße 63, 6900 Lochau", "address": "" },
   { "code": 7204, "shop": "BP", "name": "Lustenauerstraße 92, 6850 Dornbirn", "address": "" },
-  { "code": 7186, "shop": "BP", "name": "Reichshofstraße 4-20, 6890 Lustenau", "address": "47.424157, 9.651879" },
+  {
+    "code": 7186,
+    "shop": "BP",
+    "name": "Reichshofstraße 4-20, 6890 Lustenau",
+    "address": "47.424157, 9.651879"
+  },
   { "code": 7187, "shop": "BP", "name": "Arlbergstraße 63, 6900 Bregenz", "address": "" },
-  { "code": 8095, "shop": "BP", "name": "Aussergant 1, 6791 St. Gallenkirch", "address": "47.016122, 9.991192" },
+  {
+    "code": 8095,
+    "shop": "BP",
+    "name": "Aussergant 1, 6791 St. Gallenkirch",
+    "address": "47.016122, 9.991192"
+  },
   { "code": 8240, "shop": "BP", "name": "Montafonerstraße 29, 6700 Bludenz", "address": "" },
-  { "code": 9129, "shop": "Jet", "name": "Kaiser-Franz-Josef-Str. 40, 6845 Hohenems", "address": "" },
+  {
+    "code": 9129,
+    "shop": "Jet",
+    "name": "Kaiser-Franz-Josef-Str. 40, 6845 Hohenems",
+    "address": ""
+  },
   { "code": 9164, "shop": "Jet", "name": "Herrenau 1, 6706 Bürs", "address": "" },
   { "code": 9201, "shop": "Jet", "name": "Rheinstraße 99, 6971 Hard", "address": "" },
   { "code": 9335, "shop": "Jet", "name": "Schwefel 44a, 6850 Dornbirn", "address": "" },
@@ -137,50 +227,90 @@
   { "code": 9281, "shop": "Jet", "name": "Wallenmahd 22, 6850 Dornbirn", "address": "" },
   { "code": 9299, "shop": "Jet", "name": "Lustenauerstraße 2, 6840 Götzis", "address": "" },
   { "code": 1460, "shop": "Adeg", "name": "Walgaustraße 33, 6712 Bludesch-Gais", "address": "" },
-  { "code": 1462, "shop": "Adeg", "name": "Thüringerberg 110, 6721 Thüringerberg", "address": "47.215085, 9.781245" },
+  {
+    "code": 1462,
+    "shop": "Adeg",
+    "name": "Thüringerberg 110, 6721 Thüringerberg",
+    "address": "47.215085, 9.781245"
+  },
   { "code": 1463, "shop": "Adeg", "name": "Boden 57, 6731 Sonntag", "address": "" },
   { "code": 1464, "shop": "Adeg", "name": "Kirchberg 89, 6733 Fontanella", "address": "" },
   { "code": 1465, "shop": "Adeg", "name": "Stuben 12, 6762 Stuben", "address": "" },
-  { "code": 1466, "shop": "Adeg", "name": "Dorf 138, 6764 Lech", "address": "Dorf 138, 6764 Lech, Austria" },
-  { "code": 1468, "shop": "Adeg", "name": "Dorf 4, 6781 Batholomäberg", "address": "47.092461, 9.907681" },
+  {
+    "code": 1466,
+    "shop": "Adeg",
+    "name": "Dorf 138, 6764 Lech",
+    "address": "Dorf 138, 6764 Lech, Austria"
+  },
+  {
+    "code": 1468,
+    "shop": "Adeg",
+    "name": "Dorf 4, 6781 Batholomäberg",
+    "address": "47.092461, 9.907681"
+  },
   {
     "code": 1471,
     "shop": "Adeg",
     "name": "Reichstraße 9, 6800 Feldkirch",
     "address": "47.25990929342798, 9.61773359274986"
   },
-  { "code": 1472, "shop": "Adeg", "name": "Noflerstraße 34, 6805 Feldkirch", "address": "47.256779, 9.587143" },
+  {
+    "code": 1472,
+    "shop": "Adeg",
+    "name": "Noflerstraße 34, 6805 Feldkirch",
+    "address": "47.256779, 9.587143"
+  },
   { "code": 1476, "shop": "Adeg", "name": "Düns 12, 6822 Düns", "address": "47.221498, 9.718671" },
   { "code": 1478, "shop": "Adeg", "name": "Vorderlandstraße 4, 6830 Rankweil", "address": "" },
   { "code": 1479, "shop": "Adeg", "name": "Dafins/Sennerei, 6832 Viktorsberg", "address": "" },
   { "code": 1480, "shop": "Adeg", "name": "Laternserstraße 84, 6830 Laterns", "address": "" },
-  { "code": 1481, "shop": "Adeg", "name": "Hauptstraße 36, 6832 Viktorsberg", "address": "47.301690, 9.674887" },
+  {
+    "code": 1481,
+    "shop": "Adeg",
+    "name": "Hauptstraße 36, 6832 Viktorsberg",
+    "address": "47.301690, 9.674887"
+  },
   { "code": 1500, "shop": "Adeg", "name": "Ellenbogen 607, 6870 Bezau", "address": "" },
   { "code": 1501, "shop": "Adeg", "name": "Bahnhof 31, 6870 Bezau", "address": "" },
-  { "code": 1502, "shop": "Adeg", "name": "Lisse 335, 6883 Au", "address": "Lisse 335, 6883 Au, Austria" },
+  {
+    "code": 1502,
+    "shop": "Adeg",
+    "name": "Lisse 335, 6883 Au",
+    "address": "Lisse 335, 6883 Au, Austria"
+  },
   {
     "code": 1503,
     "shop": "Adeg",
     "name": "Schoppernau 9, 6886 Schoppernau",
     "address": "Unterdorf 9, 6886 Schoppernau"
   },
-  { "code": 1505, "shop": "Adeg", "name": "Schendlingerstraße 32a, 6900 Bregenz", "address": "" },
+  { "code": 2269, "shop": "Adeg", "name": "Schendlingerstraße 32a, 6900 Bregenz", "address": "" },
   { "code": 1507, "shop": "Adeg", "name": "Lindauer Straße 75, 6912 Hörbranz", "address": "" },
   { "code": 1508, "shop": "Adeg", "name": "Kellhofstraße 8, 6922 Wolfurt", "address": "" },
-  { "code": 1516, "shop": "Adeg", "name": "Springen 127, 6943 Riefensberg", "address": "" },
+  { "code": 1516, "shop": "Adeg", "name": "unterlitten 127, 6943 Riefensberg", "address": "" },
   { "code": 1518, "shop": "Adeg", "name": "Hof 24, 6951 Lingenau", "address": "" },
   { "code": 1522, "shop": "Adeg", "name": "Landstraße 50, 6973 Höchst", "address": "" },
-  { "code": 1523, "shop": "Adeg", "name": "Rheinstraße 1, 6974 Gaissau", "address": "" },
+  { "code": 2298, "shop": "Adeg", "name": "Rheinstraße 1, 6974 Gaissau", "address": "" },
   { "code": 1828, "shop": "Adeg", "name": "Bach 202, 6941 Langenegg", "address": "" },
   { "code": 1861, "shop": "Adeg", "name": "Hof 29, 6951 Lingenau", "address": "" },
   { "code": 1890, "shop": "Adeg", "name": "Walgaustraße 31, 6712 Thüringen", "address": "" },
   { "code": 1895, "shop": "Adeg", "name": "Blons 9, 6723 Blons", "address": "" },
   { "code": 2013, "shop": "Adeg", "name": "Treietstraße 17, 6833 Klaus", "address": "" },
-  { "code": 2050, "shop": "Adeg", "name": "Alberweg 2, 6806 Tosters", "address": "47.237639, 9.577111" },
+  {
+    "code": 2050,
+    "shop": "Adeg",
+    "name": "Alberweg 2, 6806 Tosters",
+    "address": "47.237639, 9.577111"
+  },
   { "code": 2051, "shop": "Adeg", "name": "SchweiZerstraße 50, 6812 Meiningen", "address": "" },
   { "code": 2092, "shop": "Adeg", "name": "Liechtensteiner Straße 101, 6807 Tisis", "address": "" },
   { "code": 2109, "shop": "Adeg", "name": "Neue Landstraße 6, 6841 Mäder", "address": "" },
-  { "code": 2110, "shop": "Adeg", "name": "Dr.-Alfons-Heinzle-Str. 45, 6840 Götzis", "address": "" },
+  {
+    "code": 2110,
+    "shop": "Adeg",
+    "name": "Dr.-Alfons-Heinzle-Str. 45, 6840 Götzis",
+    "address": ""
+  },
   { "code": 2118, "shop": "Adeg", "name": "Heimen 68, 6960 Buch", "address": "" },
   { "code": 2125, "shop": "Adeg", "name": "Neue Landstraße 23, 6841 Mäder", "address": "" },
   {
@@ -195,9 +325,19 @@
   { "code": 1164, "shop": "Adeg", "name": "Montafonerstraße 31, 6700 Bludenz", "address": "" },
   { "code": 1165, "shop": "Adeg", "name": "Obere Kanalstraße 62, 6845 Hohenems", "address": "" },
   { "code": 1166, "shop": "Adeg", "name": "Reitschulstraße 2, 6923 Lauterach", "address": "" },
-  { "code": 6776, "shop": "BIPA", "name": "HOFRIEDENSTRASSE 36, 6911 LOCHAU", "address": "47.536536, 9.752265" },
+  {
+    "code": 6776,
+    "shop": "BIPA",
+    "name": "HOFRIEDENSTRASSE 36, 6911 LOCHAU",
+    "address": "47.536536, 9.752265"
+  },
   { "code": 8368, "shop": "BIPA", "name": "BAHNHOFSTRASSE 9, 6830 RANKWEIL", "address": "" },
-  { "code": 8681, "shop": "BIPA", "name": "BUNDESSTRASSE 22, 6830 RANKWEIL", "address": "47.273434, 9.616622" },
+  {
+    "code": 8681,
+    "shop": "BIPA",
+    "name": "BUNDESSTRASSE 22, 6830 RANKWEIL",
+    "address": "47.273434, 9.616622"
+  },
   { "code": 9001, "shop": "BIPA", "name": "SCHULGASSE 11, 6850 DORNBIRN", "address": "" },
   { "code": 9002, "shop": "BIPA", "name": "GUTENBERGSTRASSE 2, 6858 SCHWARZACH", "address": "" },
   { "code": 9007, "shop": "BIPA", "name": "KEHLERSTRASSE 20, 6850 DORNBIRN", "address": "" },
@@ -218,13 +358,33 @@
     "name": "JUNKER JONAS PLATZ 3, 6840 GÖTZIS",
     "address": "47.33273143586254, 9.643739426033381"
   },
-  { "code": 9084, "shop": "BIPA", "name": "MARIA THERESIEN STRASSE 6, 6890 LUSTENAU", "address": "" },
-  { "code": 9092, "shop": "BIPA", "name": "SCHMIEDGASSE14, 6800 FELDKIRCH", "address": "47.237509, 9.597492" },
-  { "code": 9099, "shop": "BIPA", "name": "PLATZ 362, 6870 BEZAU", "address": "47.383600387227055, 9.90086994232677" },
+  {
+    "code": 9084,
+    "shop": "BIPA",
+    "name": "MARIA THERESIEN STRASSE 6, 6890 LUSTENAU",
+    "address": ""
+  },
+  {
+    "code": 9092,
+    "shop": "BIPA",
+    "name": "SCHMIEDGASSE14, 6800 FELDKIRCH",
+    "address": "47.237509, 9.597492"
+  },
+  {
+    "code": 9099,
+    "shop": "BIPA",
+    "name": "PLATZ 362, 6870 BEZAU",
+    "address": "47.383600387227055, 9.90086994232677"
+  },
   { "code": 9100, "shop": "BIPA", "name": "RHEINSTRASSE 5, 6971 HARD", "address": "" },
   { "code": 9118, "shop": "BIPA", "name": "WALLENMAHD 17, 6850 DORNBIRN", "address": "" },
   { "code": 9684, "shop": "BIPA", "name": "BAHNHOFSTRASSE 10, 6845 HOHENEMS", "address": "" },
-  { "code": 6901, "shop": "Billa", "name": "Hoffriedenstraße 36, 6911 Lochau", "address": "47.536536, 9.752265" },
+  {
+    "code": 6901,
+    "shop": "Billa",
+    "name": "Hoffriedenstraße 36, 6911 Lochau",
+    "address": "47.536536, 9.752265"
+  },
   { "code": 8261, "shop": "Billa", "name": "St. Peter-Straße 19, 6700 Bludenz", "address": "" },
   {
     "code": 8279,
@@ -233,7 +393,12 @@
     "address": "47.41772919573374, 9.661933290333566"
   },
   { "code": 8280, "shop": "Billa", "name": "Lustenauerstraße 2, 6845 Hohenems", "address": "" },
-  { "code": 8339, "shop": "Billa", "name": "Eugen-Getzner-Straße 1 1, 6710 Nenzing", "address": "" },
+  {
+    "code": 2256,
+    "shop": "Billa",
+    "name": "Eugen-Getzner-Straße 1 1, 6710 Nenzing",
+    "address": ""
+  },
   {
     "code": 8395,
     "shop": "Billa",
@@ -241,7 +406,7 @@
     "address": "47.079659441440874, 9.918547399206213"
   },
   {
-    "code": 8400,
+    "code": 2255,
     "shop": "Billa",
     "name": "Reichsstraße 167, 6800 Feldkirch",
     "address": "47.24247298908981, 9.60392087624722"
@@ -262,7 +427,12 @@
   { "code": 8540, "shop": "Billa", "name": "Bundesstraße 103, 6823 Lauterach", "address": "" },
   { "code": 6003, "shop": "BillaPlus", "name": "Enderstraße 8, 6844 Altach", "address": "" },
   { "code": 8516, "shop": "BillaPlus", "name": "Schwefel 71, 6850 Dornbirn", "address": "" },
-  { "code": 8680, "shop": "BillaPlus", "name": "Bundesstraße 22, 6830 Rankweil", "address": "47.273434, 9.616622" },
+  {
+    "code": 2268,
+    "shop": "BillaPlus",
+    "name": "Bundesstraße 22, 6830 Rankweil",
+    "address": "47.273434, 9.616622"
+  },
   { "code": 8287, "shop": "Magnet", "name": "Bahnhofstraße 1, 6911 Lochau ", "address": "" },
   { "code": 8054, "shop": "Magnet", "name": "Pulverturmgasse 4, 6900 Bregenz", "address": "" },
   { "code": 8240, "shop": "Magnet", "name": "Montafonerstraße 29, 6700 Bludenz", "address": "" },
